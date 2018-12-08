@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f054bf2-f32b-4309-93d9-16eb17c8cefa" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/test/io/deniffel/stack/Stack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/classes/io/deniffel/stack/Stack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/deniffel/stack/StackTest.class" afterPath="$PROJECT_DIR$/build/classes/java/test/io/deniffel/stack/StackTest.class" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/io.deniffel.stack.StackTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/io.deniffel.stack.StackTest.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/io.deniffel.stack.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/io.deniffel.stack.html" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-io.deniffel.stack.StackTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-io.deniffel.stack.StackTest.xml" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/io/deniffel/stack/StackTest.class" afterPath="$PROJECT_DIR$/out/test/classes/io/deniffel/stack/StackTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java" afterPath="$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java" afterPath="$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java" />
-      <change beforePath="$PROJECT_DIR$/test" afterPath="$PROJECT_DIR$/test" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,22 +31,27 @@
       <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="378">
+              <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
               <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,7 +77,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -481,9 +471,9 @@
         <option value="$PROJECT_DIR$/src/test/java/StackTest.java" />
         <option value="$PROJECT_DIR$/sync" />
         <option value="$PROJECT_DIR$/src/test/java/io/deniffel/stack/MyStack.java" />
+        <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java" />
-        <option value="$PROJECT_DIR$/test" />
       </list>
     </option>
   </component>
@@ -832,7 +822,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544262581678</updated>
-      <workItem from="1544262584783" duration="2656000" />
+      <workItem from="1544262584783" duration="3026000" />
     </task>
     <servers />
   </component>
@@ -851,7 +841,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2656000" />
+    <option name="totallyTimeSpent" value="3026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="24" width="1440" height="1596" extended-state="4" />
@@ -922,26 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sync">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -955,6 +925,31 @@
         <state relative-caret-position="0">
           <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/io/deniffel/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
