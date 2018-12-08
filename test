@@ -1,1 +1,1 @@
-./test && git commit -am working
+gradle test
