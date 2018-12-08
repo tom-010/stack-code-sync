@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="io.deniffel.stack.StackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-08T09:52:28" hostname="thomas-skytala" time="0.0">
+<testsuite name="io.deniffel.stack.StackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-08T11:40:00" hostname="thomas-skytala" time="0.001">
   <properties/>
-  <testcase name="nothing" classname="io.deniffel.stack.StackTest" time="0.0"/>
+  <testcase name="canCreateStack" classname="io.deniffel.stack.StackTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

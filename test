@@ -1,1 +1,1 @@
-gradle test
+./run_tests && git commit -am working
