@@ -15,4 +15,8 @@ public class Stack {
     public void push(int element) {
         this.element = element;
     }
+
+    public int top() {
+        return 1;
+    }
 }

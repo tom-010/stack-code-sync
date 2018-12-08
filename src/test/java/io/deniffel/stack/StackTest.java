@@ -21,4 +21,11 @@ public class StackTest {
         assertFalse(stack.isEmpty());
         assertEquals(1, stack.getSize());
     }
+
+    @Test
+    public void topOfStack_latestPushedElement() {
+        Stack stack = new Stack();
+        stack.push(1);
+        assertEquals(1, stack.top());
+    }
 }
